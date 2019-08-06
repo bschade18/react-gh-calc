@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-gh-calc/static/css/main.d10efdd1.chunk.css",
+    "main.css": "/react-gh-calc/static/css/main.ff2c6a82.chunk.css",
     "main.js": "/react-gh-calc/static/js/main.b7c25a6e.chunk.js",
     "main.js.map": "/react-gh-calc/static/js/main.b7c25a6e.chunk.js.map",
     "runtime~main.js": "/react-gh-calc/static/js/runtime~main.1dc9fd09.js",
@@ -8,8 +8,8 @@
     "static/js/2.21e67013.chunk.js": "/react-gh-calc/static/js/2.21e67013.chunk.js",
     "static/js/2.21e67013.chunk.js.map": "/react-gh-calc/static/js/2.21e67013.chunk.js.map",
     "index.html": "/react-gh-calc/index.html",
-    "precache-manifest.91f2022ec27e4086c5f23f75e0fef3b7.js": "/react-gh-calc/precache-manifest.91f2022ec27e4086c5f23f75e0fef3b7.js",
+    "precache-manifest.826286ae7f3a496cce923e6352c86a69.js": "/react-gh-calc/precache-manifest.826286ae7f3a496cce923e6352c86a69.js",
     "service-worker.js": "/react-gh-calc/service-worker.js",
-    "static/css/main.d10efdd1.chunk.css.map": "/react-gh-calc/static/css/main.d10efdd1.chunk.css.map"
+    "static/css/main.ff2c6a82.chunk.css.map": "/react-gh-calc/static/css/main.ff2c6a82.chunk.css.map"
   }
 }
