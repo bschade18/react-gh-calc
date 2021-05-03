@@ -158,6 +158,7 @@ class App extends React.Component {
 
     return (
       <div id="container">
+        <h1>Bobby Schade</h1>
         <div id="calc-container">
           <div id="calc-btns">
             <div id="display" style={displayStyle}>
